@@ -1,0 +1,8 @@
+Place your resume PDF file here and rename it to: resume.pdf
+
+The download button in the portfolio is already configured to download: /public/resume.pdf
+
+Steps:
+1. Export your resume as a PDF
+2. Rename it to resume.pdf
+3. Replace this file with your resume.pdf
