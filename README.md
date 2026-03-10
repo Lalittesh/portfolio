@@ -11,13 +11,7 @@ npm install
 ```bash
 npm run dev
 ```
+LVE WEBSITE 
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
 
----
-
-## Build for Production
-
-```bash
-npm run build
-```
+https://eclectic-souffle-37714d.netlify.app/
